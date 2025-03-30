@@ -6,8 +6,8 @@ Movie ticket booking web application with MERN stack (MongoDB, Express, React, N
 **GitHub Repository:** [https://github.com/sangamparmar/MovieFrenz](https://github.com/sangamparmar/MovieFrenz)
 
 
-## 🔑 ADMIN LOGIN CREDENTIALS
-- **Username:** sangam
+## 🔑 USER LOGIN CREDENTIALS
+- **Username:** hello
 - **Password:** 12345678
 
 *Note: Admin access is granted by updating the user role in MongoDB to "admin".*
