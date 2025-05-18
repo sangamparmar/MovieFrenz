@@ -3,8 +3,6 @@
 Movie ticket booking web application with MERN stack (MongoDB, Express, React, NodeJS) & Tailwind CSS
 
 **Demo:** [https://eliteapp.tech/](https://eliteapp.tech/)  
-**GitHub Repository:** [https://github.com/sangamparmar/MovieFrenz](https://github.com/sangamparmar/MovieFrenz)
-
 
 ## 🔑 USER LOGIN CREDENTIALS
 - **Username:** hello
